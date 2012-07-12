@@ -59,8 +59,8 @@ function iMail:Boot()
 	self:RegisterEvent("MAIL_INBOX_UPDATE", "MailProcess");
 	self:RegisterEvent("MAIL_SHOW", "MailProcess");
 	
-	_G.MiniMapMailIcon.Show = _G.MiniMapMailIcon.Hide;
-	_G.MiniMapMailIcon:Hide();
+	_G.MiniMapMailFrame.Show = _G.MiniMapMailFrame.Hide;
+	_G.MiniMapMailFrame:Hide();
 	
 	self:MailUpdate();
 end
