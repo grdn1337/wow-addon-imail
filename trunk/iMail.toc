@@ -1,6 +1,6 @@
 ## Interface: 50001
 ## Title: i|cffffffaaMail|r
-## Version: 2.0.2
+## Version: 2.0.3
 ## Notes: LDB replacement for your minimap icon.
 ## Author: grdn
 ## OptionalDeps: Ace3, iLib
@@ -9,6 +9,8 @@
 Libs\LibStub\Libstub.lua
 Libs\CallbackHandler-1.0\CallbackHandler-1.0.xml
 Libs\libdatabroker-1-1\LibDataBroker-1.1.lua
+
+Libs\iLib\lib.xml
 
 Libs\AceEvent-3.0\AceEvent-3.0.xml
 Libs\AceLocale-3.0\AceLocale-3.0.xml

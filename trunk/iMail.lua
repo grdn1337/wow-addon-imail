@@ -63,6 +63,8 @@ function iMail:Boot()
 	_G.MiniMapMailFrame:Hide();
 	
 	self:MailUpdate();
+	
+	self:UnregisterEvent("PLAYER_ENTERING_WORLD");
 end
 iMail:RegisterEvent("PLAYER_ENTERING_WORLD", "Boot");
 
