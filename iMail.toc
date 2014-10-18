@@ -1,6 +1,6 @@
-## Interface: 50400
+## Interface: 60000
 ## Title: i|cffffffaaMail|r
-## Version: 5.4-r1
+## Version: 6.0.2-r1
 ## Notes: LDB replacement for your minimap icon.
 ## Author: grdn
 ## OptionalDeps: Ace3, iLib
