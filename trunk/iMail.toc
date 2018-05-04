@@ -1,6 +1,6 @@
-## Interface: 70200
+## Interface: 70300
 ## Title: i|cffffffaaMail|r
-## Version: 7.2.0
+## Version: 7.3.0
 ## Notes: LDB replacement for your minimap icon.
 ## Author: grdn
 ## OptionalDeps: Ace3, iLib
