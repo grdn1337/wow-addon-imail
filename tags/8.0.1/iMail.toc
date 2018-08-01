@@ -1,0 +1,8 @@
+## Interface: 80000
+## Title: i|cffffffaaMail|r
+## Version: 8.0.1
+## Notes: LDB replacement for your minimap icon.
+## Author: grdn
+## OptionalDeps: Ace3, iLib
+
+includes.xml
